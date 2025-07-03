@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="com.itvarsity.superheroapp"
+        version="1.0.0"
+        android-versionCode="10">
+
+    <name>Marvel Avengers App</name>
+
+    <description>
+        Explore the amazing world of Marvel's Avengers — characters, powers, and stories!
+    </description>    
+
+    <author email="angela.morris@yahoo.com">
+        Angela Morris
+    </author>
+
+</widget>
